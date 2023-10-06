@@ -1,5 +1,5 @@
 
-package data;
+package project.data;
 
 import java.io.Serializable;
 
