@@ -6,7 +6,7 @@ O objetivo deste trabalho consiste em desenvolver um aplicativo para dispositivo
 
   -  Front-end desenvolvido em Android nativo;
   -  Back-end desenvolvido em Java;
-  -  Comunicação entre front e back-end utilizando o padrão arquitetural REST.
+  -  Comunicação entre front e back-end utilizando o padrão arquitetural REST;
 
 Portanto, minimamente o aplicativo dispoe de alguma funcionalidade que envolva o consumo de API REST. Além do atendimento dos requisitos não funcionais acima, também serão utilizados como critérios a organização do código e uso de boas práticas de desenvolvimento. O código do aplicativo (front-end e back-end) devem ser anexados no Moodle ou disponibilizado o link do projeto no Github até o dia 01/12/2023. Junto com os códigos também deve ser fornecida uma documentação explicando funcionalmente o aplicativo e os procedimentos para build e execução.
 
